@@ -21,4 +21,4 @@ To use the model Directly without training :
 >```sh
 > model=tf.keras.models.load_model('masking_model.h5')
 > ```
-[gif](combined.gif)
+![](combined.gif)
