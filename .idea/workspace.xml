@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7931b78-4e9a-4124-a2f7-686afa5ce0dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ethLzx9wVJQiNIGJD5XYhQNio5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/machine_learning/bin/python3.8" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="unet" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="unet" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7931b78-4e9a-4124-a2f7-686afa5ce0dc" name="Default Changelist" comment="" />
+      <created>1595146744189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595146744189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="63" width="1267" height="987" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595213139915">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="410" y="63" width="1267" height="987" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1595213139915" />
+    <state x="576" y="109" width="736" height="820" key="FileChooserDialogImpl" timestamp="1595213812774">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="576" y="109" width="736" height="820" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1595213812774" />
+    <state x="79" y="34" width="1751" height="1046" key="SettingsEditor" timestamp="1595215040590">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="79" y="34" width="1751" height="1046" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1595215040590" />
+    <state x="379" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1595216498577">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="379" y="269" key="com.intellij.ide.util.TipDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1595216498577" />
+    <state x="580" y="34" width="728" height="1046" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1595213269279">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="580" y="34" width="728" height="1046" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1595213269279" />
+  </component>
+</project>
